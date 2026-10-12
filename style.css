@@ -5627,9 +5627,6 @@ main > section,
     }
 }
 
-
-
-/* Final video layout correction */
 #answer-modal .bk-content:has(.bk-video-card) {
     align-items: center;
 }
@@ -5715,9 +5712,6 @@ main > section,
     }
 }
 
-
-
-/* Compact Filio booklet layouts: fewer photos, video and text fit naturally */
 #answer-modal .bk-pages {
     min-height: 0;
     height: min(88vh, 900px);
